@@ -54,7 +54,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Próximos passos (ideias para evoluir):
+## 📌 Próximos passos:
 
 - 🎨 Melhorias de visual com CSS customizado
 - Adicionar novos agentes para criação de storytelling e gerador de um nome bruxo
