@@ -48,6 +48,9 @@ streamlit run app.py
 
 ## O App
 
+<img width="745" alt="forms_chapeu_seletor" src="https://github.com/user-attachments/assets/41c0983e-49be-4672-a4dd-3d4def6b2cae" />
+
+<img width="377" alt="response_chapeu_seletor" src="https://github.com/user-attachments/assets/8ef41f69-78b7-4660-ab4a-e991d9bd766f" />
 
 ---
 
